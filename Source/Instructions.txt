@@ -1,0 +1,20 @@
+Welcome to the game!
+Your mission is simple: 
+
+You are a wandering knight that comes upon a small village in the woods.
+Unfortunately, this village is being terrorized by local monsters and creatures.
+The village mayor has asked you to exterminate all them for a grand prize.
+Stay alive, get rid of the monsters, and you win!
+
+
+In order to make your way through the game you will make heavy use of menus. 
+When presented with a series of options, simply type the 
+option number which corresponds to the action you'd like to take.
+
+Exmaple: if you'd like to choose option "[3]", simply type '3' and press enter. 
+
+At any input prompt in the game you could type "menu" and press enter to bring up the "game menu". 
+The game menu is the place where you can view your character information ("view character sheet"), 
+view your inventory ("view inventory sheet"), save your game, or quit the game.
+
+Have fun and thank you for playing!

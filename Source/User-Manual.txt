@@ -1,0 +1,43 @@
+﻿Before Knight Falls
+Frank McDermott, Eve-Amabelle Diby, 5/4/21, Single player, text-based RPG game
+
+
+The object of this game is to collect items, weapons, and armor in order to fight and rid a small village of its monster infestation. 
+Players can start a new game simply by following the prompt from the starting menu. Potions, various types of armor, and 
+swords can be used to strengthen a player’s character as they battle dark knights, wyrms, zombies, and more.
+
+
+Starting the game
+
+1. Run the game application on a computer. Once the game has loaded, a start menu will pop up. 
+   Choose the New Game option to start a new game.
+2. You will be prompted to enter a name for your character. Once you enter a name, hit [ENTER] 
+   and the game introductory message will appear. It will prompt players to read through before pressing any key to continue.
+3. After reading the game introductory message,  
+   the game will launch the beginning of the story. After reading through the story so far, a prompt will appear to press any key to continue.
+
+Playing the Game
+
+1. Once finished with the starting menu, the game menu will appear. There, players have the options to view their character sheets, 
+    inventory, view the game instructions, save the game, quit, or continue the game.
+2. To start playing, choose option 6. This will take players to the area where they will begin the game. To navigate the area, refer to 
+    the grid that is on the screen along with the directional choices. As they choose what direction to move towards, the grid will 
+    update and print descriptions of players’ surroundings as you move.
+3. Of the directional menu, there is an option to exit the game (option 5). This option will return players back to the game menu where 
+   they can save the game before quitting.
+
+Saving Game Progress
+      
+1. To save a character’s progress, choose option 4 of the game menu. There will be two options presented: saving the game or returning 
+    to the game menu. 
+2. To continue with the saving process, choose option 1. Players will have the option to overwrite a previous save file for the current 
+    character they are playing with. To save new character stats and inventory, choose option 1. 
+
+Battle
+
+1. Upon entering certain areas within the game, a battle between characters and monsters will occur. The Battle Menu has 4 options: 
+    Attack, Defend, Use item, or Run away.
+2. Attacking will weaken the opposing monster’s hp level. Defense will secure a character’s current hp levels without injuring the 
+   opposing monster. Using an item allows for using any accumulated weapons or items stored in a player’s inventory. Using an item 
+   will add to a character’s hp levels, allowing them to be supercharged momentarily. Running away from a battle will cause the battle to 
+   quit and the player will return to the grid of the area they were in previously before the battle started.
